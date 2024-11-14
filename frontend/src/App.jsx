@@ -34,7 +34,7 @@ function App() {
   return (
     <>
       <div className="flex items-center justify-center h-screen">
-        <div className="w-[90%] sm:w-[70%] md:w-[40vw] h-[80vh] sm:h-[70vh] md:h-[60vh] flex flex-col  items-center bg-[#FFF9E6] border border-gray-300 rounded-lg shadow-lg p-6">
+        <div className="w-[90%] sm:w-[70%] md:w-[40vw] h-[80vh] sm:h-[80vh] md:h-[80vh] flex flex-col  items-center bg-[#FFF9E6] border border-gray-300 rounded-lg shadow-lg p-6">
           <h1 className="font-bold text-2xl sm:text-3xl md:text-xl text-gray-700">**NotFile**</h1>
           <p className="text-s text-gray-400">(Share your files with ease!!!)</p>
           <div className="flex items-center justify-center flex-col gap-5">
